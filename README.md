@@ -70,7 +70,7 @@ Keep a separate list of problems you couldn't solve. Come back later once you've
 
 | Level | Topics |
 |-------|--------|
-| Pre-Requisites | Help ypu Getting Started |
+| Pre-Requisites | Help you Getting Started |
 | Level 0 |
 | Level 1 | Arrays, Strings, Recursion |
 | Common | Shared logic, Maths , templates |
