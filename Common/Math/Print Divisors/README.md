@@ -62,8 +62,9 @@ For `n = 36`, the divisors are:
 ---
 
 ## 📂 File Structure
-
+```
 DivisorTechniques/
 ├── print_all_divisors.cpp # All four approaches in one file
 ├── README.md # Full explanation and breakdown
-├── Makefile # Build and run commands
+└── Makefile # Build and run commands
+```

@@ -57,8 +57,9 @@ Efficient and used in real-world applications, competitive coding, cryptography,
 ---
 
 ## 📂 File Structure
-
+```
 GCD_HCF_Calculations/
 ├── gcd.cpp # Full C++ source with both methods
 ├── README.md # Explanation and documentation
-├── Makefile # Build and run commands
+└── Makefile # Build and run commands
+```
