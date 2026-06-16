@@ -30,14 +30,13 @@ This file demonstrates **three distinct approaches** to determine if a number is
 ---
 
 ## 🗂 File Structure
-
+```
 Prime/
 │
 ├── prime_number.cpp # All three approaches with comments
 ├── README.md # This file
-
-├── Makefile # Build and run commands
-
+└── Makefile # Build and run commands
+```
 ---
 
 ## 🔍 Sample Usage
@@ -56,3 +55,4 @@ int main() {
     return 0;
 }
 
+```

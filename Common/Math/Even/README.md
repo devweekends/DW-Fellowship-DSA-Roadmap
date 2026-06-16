@@ -25,13 +25,14 @@ This program demonstrates **four different approaches** to check if a number is 
 ---
 
 ## 🗂 File Structure
-
+```
 Even/
 │
 ├── even_number.cpp # All approaches with comments
 ├── README.md # This file
 
 └── Makefile # Build and run the program
+```
 ---
 
 ## 🔍 Sample Usage
@@ -52,3 +53,4 @@ int main() {
     // Try others:
     // even_bitwise(n), even_division(n), even_recursive(n)
 }
+```

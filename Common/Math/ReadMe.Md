@@ -24,7 +24,7 @@ Each problem will have its **own folder** with:
 
 ### 🔗 Problem List
 
-- [Armstrong Number](./Armstrog%20Number//Armstrong.cpp)
+- [Armstrong Number](./Armstrog%20Number/Armstrong.cpp)
 - [Check Even](./Even/even_number.cpp)
 - [Check Odd](./Odd/odd_number.cpp)
 - [Check Prime](./Prime/prime_number.cpp)

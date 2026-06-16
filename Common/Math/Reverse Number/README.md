@@ -59,7 +59,9 @@ Output: 9
 ---
 
 ## 📂 Folder Structure
+```
 ReverseNumberTechniques/
 ├── reverse_number.cpp # Full code with all 4 approaches
 ├── README.md # Detailed explanation and usage
-├── Makefile # Build and run commands
+└── Makefile # Build and run commands
+```

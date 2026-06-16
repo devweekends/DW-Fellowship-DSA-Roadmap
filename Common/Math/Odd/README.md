@@ -25,13 +25,13 @@ This program explores **four different ways** to check if a number is odd in C++
 ---
 
 ## 🗂 File Structure
-
+```
 Odd/
 │
 ├── odd_number.cpp # All approaches with full comments
 ├── README.md # This file
-
 └── Makefile # Build and run commands
+```
 ---
 
 ## 🔍 Sample Usage
@@ -48,7 +48,7 @@ int main() {
     } else {
         cout << n << " is even\n";
     }
-
     // Try others:
     // odd_bitwise(n), odd_division(n), odd_recursive(n)
 }
+```

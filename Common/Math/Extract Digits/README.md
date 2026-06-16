@@ -54,18 +54,9 @@ This is the foundation for many number-based algorithms.
 ---
 
 ## 📂 File Structure
-
+```
 ExtractDigit/
 ├── extract_digit.cpp # Full working code
 ├── README.md # Explanation and approach
-
 └── Makefile # Build and run the code
-
-
-
-
-
-
-
-
-
+```

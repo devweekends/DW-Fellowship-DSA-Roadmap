@@ -52,8 +52,9 @@ Different problems may restrict:
 ---
 
 ## 📂 File Structure
-
+```
 PalindromeCheck/
 ├── palindrome_number_array.cpp # C++ source file with all implementations
 ├── README.md # Documentation and explanation
 └── Makefile # Build and run the code
+```

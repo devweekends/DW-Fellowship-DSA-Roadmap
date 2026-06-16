@@ -46,9 +46,10 @@ Output: 3
 ---
 
 ## 🗂 File Structure
-
+```
 Count Digits/
 ├── even_digit_count.cpp # Full C++ implementation
 ├── README.md # Explanation and usage
 
 └── Makefile # Build and run the code
+```

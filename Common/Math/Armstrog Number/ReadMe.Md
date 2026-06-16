@@ -73,3 +73,4 @@ int main() {
     // Similarly, test other versions:
     // isArmstrong1(n), isArmstrong2(n), isArmstrong3(n)
 }
+```
