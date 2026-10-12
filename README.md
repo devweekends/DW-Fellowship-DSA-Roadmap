@@ -1,6 +1,6 @@
-# 📘 Fellowship-2025 DSA Series
+# 📘 DW Fellowship - DSA Series
 
-Welcome to the **Fellowship-2025 DSA Series**, an initiative by **Dev Weekends** to help learners become confident problem-solvers, build strong foundations in Data Structures and Algorithms (DSA), and crack technical interviews with ease.
+Welcome to the **DW Fellowship - DSA Series**, an initiative by **Dev Weekends** to help learners become confident problem-solvers, build strong foundations in Data Structures and Algorithms (DSA), and crack technical interviews with ease.
 
 ---
 
@@ -23,6 +23,7 @@ Whether you're a beginner or someone revisiting DSA for placements, this repo is
 Before jumping into solving problems, it's crucial to cover the following **foundational skills**. These are mandatory if you want to **truly understand and apply** algorithms later:
 
 ### 📌 Programming Language Fundamentals (C++ , Python , Java)
+
 - Variables, Data Types
 - Loops & Conditionals
 - Functions & Recursion
@@ -30,9 +31,11 @@ Before jumping into solving problems, it's crucial to cover the following **foun
 - Understanding References and Pointers
 
 ### 📌 Standard Libraries
-- Their Usage and how to identify 
+
+- Their Usage and how to identify
 
 ### 📌 Time & Space Complexity
+
 - Big O Notation
 - Analyzing loops and recursive calls
 
@@ -45,15 +48,19 @@ Before jumping into solving problems, it's crucial to cover the following **foun
 This journey is based on **smart learning**, not brute force. Here's how to approach it:
 
 ### ✅ 1. Don’t Try to Solve Everything
+
 > You’re not here to become a Leetcode farmer. You’re here to become a strong problem-solver.
 
 Solve **5–10 solid problems per topic**, not 50 repetitive ones. Focus on learning techniques and patterns.
 
 ### ✅ 2. Learn Before You Apply
+
 If a problem involves a new concept (e.g., recursion, hashmaps, DP), **go study that first** before attempting to solve the problem.
 
 ### ✅ 3. Solve > Struggle
+
 Don’t spend more than **1 hour** on any one problem when starting out. If stuck:
+
 - Read the editorial
 - Watch a video
 - Understand the approach
@@ -62,18 +69,19 @@ Don’t spend more than **1 hour** on any one problem when starting out. If stuc
 ⏱ Ideal Time Per Problem: **30–45 minutes**
 
 ### ✅ 4. Backlog Tough Problems
+
 Keep a separate list of problems you couldn't solve. Come back later once you've leveled up.
 
 ---
 
 ## 🧠 Topics Covered (Progressively)
 
-| Level | Topics |
-|-------|--------|
-| Pre-Requisites | Help ypu Getting Started |
-| Level 0 |
-| Level 1 | Arrays, Strings, Recursion |
-| Common | Shared logic, Maths , templates |
+| Level          | Topics                          |
+| -------------- | ------------------------------- |
+| Pre-Requisites | Help ypu Getting Started        |
+| Level 0        |
+| Level 1        | Arrays, Strings, Recursion      |
+| Common         | Shared logic, Maths , templates |
 
 Each level contains its own `README.md` with topic-wise structure and references.
 
@@ -81,7 +89,7 @@ Each level contains its own `README.md` with topic-wise structure and references
 
 ## 📂 Folder Structure
 
-Fellowship-2025-DSA-Series/
+DW-Fellowship-DSA-Roadmap/
 ├── Pre-Requisites/ # ✅ Start here — Basics of C++, Math, and Complexity
 │ └── README.md
 ├── Level 0/ # Arrays, Strings, Recursion....
@@ -91,7 +99,6 @@ Fellowship-2025-DSA-Series/
 ├── Common/ # Shared templates, math utils , Templates
 └── README.md # This file
 
-
 ## 🧪 How to Practice
 
 1. **Read the README** in each folder
@@ -100,7 +107,6 @@ Fellowship-2025-DSA-Series/
 4. Document key learning in a notebook or markdown
 5. Making a notion template will help you a lot
 6. Review tricky problems weekly
-
 
 Code is clean, well-commented, and beginner-friendly.
 
@@ -116,19 +122,18 @@ This repo is **not** meant to be a question dump. Each problem you solve should 
 ---
 
 ## 📜 License
-📝 Fellowship-2025 DSA Series
+
+📝 DW Fellowship - DSA Series
 Licensed under Dev Weekends Fellowship License.
 
 This repository is for personal learning and non-commercial usage only.
 All rights reserved © 2025 Dev Weekends.
 
-
 ---
 
 ## 🙌 Created with ❤️ by Dev Weekends
 
-Join our community to grow with peers, solve real-world problems, and prepare for top tech roles together and Become a better Engineer . 
-
+Join our community to grow with peers, solve real-world problems, and prepare for top tech roles together and Become a better Engineer .
 
 - 🌍 **Website:** [devweekends.com](https://devweekends.com)
 - 🔗 **Discord:** [Join our Discord](https://discord.com/invite/c7Sn3yhvSh)
@@ -140,5 +145,3 @@ Join our community to grow with peers, solve real-world problems, and prepare fo
 [Subscribe to our YouTube](https://www.youtube.com/@devweekends) for more content.
 
 > ✉️ Questions? Suggestions? Ping us at **devweekends@gmail.com**
-
-
