@@ -81,16 +81,16 @@ Each level contains its own `README.md` with topic-wise structure and references
 
 ## 📂 Folder Structure
 
+```text
 Fellowship-2025-DSA-Series/
-├── Pre-Requisites/ # ✅ Start here — Basics of C++, Math, and Complexity
-│ └── README.md
-├── Level 0/ # Arrays, Strings, Recursion....
-│ └── README.md
-├── Level 1/ # Arrays, Strings, Recursion....
-│ └── README.md
-├── Common/ # Shared templates, math utils , Templates
-└── README.md # This file
-
+├── Pre-Requisites/  # Basics of C++, Math, and Complexity
+│   └── README.md
+├── Level 0/         # Core DSA Patterns (Arrays, Strings, Hashmaps, Trees, Recursion...)
+├── Level 1/         # Advanced DSA Topics organized week-wise (Week 01 - Week 16)
+│   └── README.md
+├── Common/          # Shared templates, utilities, and resources
+└── README.md
+```
 
 ## 🧪 How to Practice
 
